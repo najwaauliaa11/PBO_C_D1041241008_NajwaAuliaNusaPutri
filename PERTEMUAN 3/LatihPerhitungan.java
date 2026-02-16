@@ -1,3 +1,9 @@
+/*
+NIM : D1041241008
+Nama : Najwa Aulia Nusa Putri
+Program untuk latihan aritmatika dasar
+ */
+
 public class LatihPerhitungan {
     public static void main(String[] args) {
         int saldo = 1000000;
@@ -13,3 +19,4 @@ public class LatihPerhitungan {
         System.out.println("Saldo Akhir         : "+ saldo);
     }
 }
+
