@@ -1,3 +1,9 @@
+/*
+Nim  : D1041241012
+Nama : Eva Safitri
+Program penerapan Naming Convention
+ */
+
 public class p041NamingConvention {
 
     public static final double PI = 3.14;
@@ -13,3 +19,4 @@ public class p041NamingConvention {
         System.out.println("Konstanta PI: "+PI);
     }
 }
+
